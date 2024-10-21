@@ -23,7 +23,7 @@ This project explores a dataset of **Amazon Books** to uncover key patterns and 
    Click [here](https://colab.research.google.com/drive/1RDDzDjD6AJ4trbTInfsaeIYWyygo0sKc?usp=sharing) to view the Jupyter Notebook on **Google Colab**.  
    
 2. **Power BI Dashboard**:  
-   Explore the insights interactively via the Power BI dashboard [here](https://app.powerbi.com/reportEmbed?reportId=266c71d5-d003-4f61-ba83-002ef6019280&autoAuth=true&ctid=23d0348e-2962-4f09-9203-398c135660be).  
+   Explore the insights interactively with a Power BI Service account [here](https://app.powerbi.com/reportEmbed?reportId=266c71d5-d003-4f61-ba83-002ef6019280&autoAuth=true&ctid=23d0348e-2962-4f09-9203-398c135660be).  
    
 3. **Python Script**:  
    The complete Python code for this project is available in the `Amazon_Books_Project.py` file in this repository.
@@ -64,8 +64,8 @@ This project explores a dataset of **Amazon Books** to uncover key patterns and 
 | File/Link                             | Description                                      |
 |---------------------------------------|--------------------------------------------------|
 | `EDA on Amazon Best Seller Books.py`  | Python script containing the code                |
-| [Jupyter Notebook](#)                 | Viewable notebook on Google Colab                |
-| [Power BI Dashboard](#)               | Interactive dashboard for insights               |
+| [Jupyter Notebook](https://colab.research.google.com/drive/1RDDzDjD6AJ4trbTInfsaeIYWyygo0sKc?usp=sharing)                 | Viewable notebook on Google Colab                |
+| [Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=266c71d5-d003-4f61-ba83-002ef6019280&autoAuth=true&ctid=23d0348e-2962-4f09-9203-398c135660be)               | Interactive Power BI dashboard for insights               |
 | Amazon_best_seller_books1.knwf        | KNIME workflow file for automated data processing|                                            
 ---
 
